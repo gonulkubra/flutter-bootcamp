@@ -50,12 +50,15 @@ Güneşli ve bulutlu hava durumuna göre Güneş gözlüğü ve şapka takmanız
 - Türkiye Kanserle Savaş Vakfı
 
 # Product Backlog URL
-
+[Flutter Team 87 Miro Backlog Board](https://miro.com/app/board/uXjVM9w02ho=/)
 # Sprint 1
 - **Sprint Notları**: User Story'ler, Product Backlog'ların içine yazıldı. Product Backlog'da item’lara tıklandığında hikayelerin detayları okunabilir.
 - **Sprint İçinde Tamamlanması Tahmin Edilen Puan**: 100 Puan
 - **Puan Tamamlama Tahmin Mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 puan ile başlamasına karar verildi.
-- **Daily Scrum**: Daily Scrum toplantılarının WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı ekran görüntüleri jpeg ve word olarak Read.me'de paylaşıldı. Link
+- **Daily Scrum**: Daily Scrum toplantılarının WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı ekran görüntüleri jpeg olarak README'de paylaşıldı.
+    - [Daily Scrum 01](/assets/images/daily-scrum-01.jpeg)
+    - [Daily Scrum 02](/assets/images/daily-scrum-02.jpeg)
+    - [Daily Scrum 03](/assets/images/daily-scrum-03.jpeg)
 - **Sprint Board Updates**: Screenshot ![Sprint 1](/assets/images/scrum-board-sprint-1.png)
 - **Sprint Review**: Veri alınacak servislere ve kullanıcı bilgilerinin depolanacağı yer sağlayıcılarına karar verildi. Temel ekran çizimleri kara kalem ile kağıda çizilip hazırlandı. Sprint 2’nin ilk haftasında UI Tasarımın çizilmesine, Splash ve Home Screen'in tamamlanmasına, verilerin Firebase'e aktarılmasına karar verildi.
 - **Sprint Rewiew katılımcıları**: Kübra Gönül, Özcan Erdem Tosun, Yusuf Samet Karakurt
