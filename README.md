@@ -57,7 +57,7 @@ Güneşli ve bulutlu hava durumuna göre Güneş gözlüğü ve şapka takmanız
 - **Puan Tamamlama Tahmin Mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 puan ile başlamasına karar verildi.
 - **Daily Scrum**: Daily Scrum toplantılarının WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı ekran görüntüleri jpeg ve word olarak Read.me'de paylaşıldı. Link
 - **Sprint Board Updates**: Screenshot ![Sprint 1](/assets/images/scrum-board-sprint-1.png)
-- **Sprint Review**: Sprint 2’nin ilk haftasında UI Tasarımın çizilmesine, Splash ve Home Screen'in tamamlanmasına, harita entegrasyonunun yapılmasına karar verildi. Sprint 2’nin ikinci haftasında
+- **Sprint Review**: Veri alınacak servislere ve kullanıcı bilgilerinin depolanacağı yer sağlayıcılarına karar verildi. Temel ekran çizimleri kara kalem ile kağıda çizilip hazırlandı. Sprint 2’nin ilk haftasında UI Tasarımın çizilmesine, Splash ve Home Screen'in tamamlanmasına, verilerin Firebase'e aktarılmasına karar verildi.
 - **Sprint Rewiew katılımcıları**: Kübra Gönül, Özcan Erdem Tosun, Yusuf Samet Karakurt
 - **Sprint Retrospective**:
     - Takım içi rol dağılımını düzenleme kararı alındı.
