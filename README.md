@@ -6,7 +6,7 @@
 # Takım Rolleri
 >**Kübra Gönül**: Product Owner / Developer <br>
 >__Özcan Erdem Tosun__: Scrum Master / Developer <br>
->__Yusuf Samet Karakurt__: Developer
+>__Yusuf Samet Karakurt__: Developer <br>
 >__Buse Avcı__: Takımdan ayrılan üye
 
 # Ürün İsmi
