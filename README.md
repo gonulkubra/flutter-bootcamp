@@ -7,6 +7,7 @@
 >**Kübra Gönül**: Product Owner / Developer <br>
 >__Özcan Erdem Tosun__: Scrum Master / Developer <br>
 >__Yusuf Samet Karakurt__: Developer
+>__Buse Avcı__: Takımdan ayrılan üye
 
 # Ürün İsmi
 UV Protection App
@@ -18,7 +19,7 @@ Güneş koruyucusu ve D vitamini takviyesi içeren otomatların konumunu göster
 
 Güneşlenilebilir UV derecesi ve saat aralığı bilgisini paylaşarak Güneş'in olumsuz etkilerinden korunmanızı ve Güneş'in olumlu etkilerinden faydalanmanızı sağlar.
 
-Güneşli ve bulutlu hava durumuna göre Güneş gözlüğü ve şapka takmanızı tavsiye ederek sağlığınızı korumayı amaçlar. Karbon ayak izini azaltma, Ozon tabakasını koruma, Cilt Kanseri ile mücadele konusunda kullanıcıları bilinçlendirir. Çevreye duyarlı öneriler sunar. Sağlığınızı ve doğayı koruma konusunda size rehberlik eder.
+Güneşli ve bulutlu hava durumuna göre güneş gözlüğü ve şapka takmanızı tavsiye ederek sağlığınızı korumayı amaçlar. Karbon ayak izini azaltma, Ozon tabakasını koruma, Cilt Kanseri ile mücadele konusunda kullanıcıları bilinçlendirir. Çevreye duyarlı öneriler sunar. Sağlığınızı ve doğayı koruma konusunda size rehberlik eder.
 
 # Ürün Özellikleri
 - **UV indeksi ve hava durumu bilgileri sunma**
